@@ -1,6 +1,18 @@
 [
-{
-  'user':'admin',
-  'password':'admin'
-}
+    {
+        "product" :  [ { "code" : "Abc123", "description" : "Saw blade", "price" : 34.95 } ],
+        "vendor" : [ { "name" : "Acme Hardware", "state" : "New Jersey" } ]
+    },
+
+    {
+        "product" :  [ { "code" : "Def456", "description" : "Hammer", "price" : 22.51 } ]
+    },
+    {
+        "product" :  [ { "code" : "Ghi789", "description" : "Wrench", "price" : 12.15 } ],
+        "vendor" : [ { "name" : "Acme Hardware", "state" : "New Jersey" } ]
+    },
+    {
+        "product" : [ { "code" : "Jkl012", "description" : "Pliers", "price" : 14.54 } ],
+        "vendor" : [ { "name" : "Norwegian Tool Suppliers", "state" : "Kentucky" } ]
+    }
 ]
