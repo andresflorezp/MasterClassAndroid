@@ -1,6 +1,5 @@
-
-    {
-        "admin" : "admin",
-        "admin" : "admin"
-    }
+{
+    "user" : "admin",
+    "password" : "admin"
+}
 
